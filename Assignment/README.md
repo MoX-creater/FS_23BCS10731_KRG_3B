@@ -1,7 +1,7 @@
 # EcoTrack — Daily Water Tracker
 
-**Name:** Vinayak
-**Roll No:** 23BCS12507
+**Name:** Mohit
+**Roll No:** 23BCS10731
 **Group:** KRG-3B
 
 A React-based wellness feature built inside the EcoTrack dashboard. Users can log in, track daily water intake, set a goal, and fetch health tips from an external API.
